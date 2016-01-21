@@ -1,0 +1,13 @@
+.header1{
+position: absolute;
+top: calc(50% - 35px);
+left: calc(50% - 255px);
+z-index: 2;
+color: #FFF;
+font-family: "Exo",sans-serif;
+font-size: 35px;
+font-weight: 200;
+}
+.header1 div span {
+color: #5379FA !important;
+}

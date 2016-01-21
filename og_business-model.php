@@ -1,0 +1,5 @@
+<meta property="og:title" content="Business Model" />
+<meta property="og:url" content="http://sunstone.in/management-program/business-model" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Financial numbers are the language of business, the primary means of communicating progress and performance. Just as any writer must be familiar with the basics of vocabulary and grammar, any aspiring business person must gain basic proficiency in the elements, principles and assumptions of modern accounting.This course familiarizes students with the purpose and use of financial statements. Students take their first step towards appreciating and working with business numbers as they apply to everyday situations. " />
+<meta property="og:image" content="http://sunstone.in/management-program/img/business-model/topper-business-model-may15.png" />

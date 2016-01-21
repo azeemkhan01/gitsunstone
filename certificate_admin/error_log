@@ -1,0 +1,6 @@
+[03-Jul-2015 06:30:54] PHP Notice:  Undefined index:  user_type in /home2/taogreen/public_html/management-program/certificate_admin/index.php on line 11
+[03-Jul-2015 06:30:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/taogreen/public_html/management-program/certificate_admin/index.php on line 22
+[03-Jul-2015 06:32:45] PHP Notice:  Undefined index:  user_type in /home2/taogreen/public_html/management-program/certificate_admin/index.php on line 11
+[03-Jul-2015 06:32:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/taogreen/public_html/management-program/certificate_admin/index.php on line 22
+[03-Jul-2015 06:32:49] PHP Notice:  Undefined index:  user_type in /home2/taogreen/public_html/management-program/certificate_admin/index.php on line 11
+[03-Jul-2015 06:32:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/taogreen/public_html/management-program/certificate_admin/index.php on line 22

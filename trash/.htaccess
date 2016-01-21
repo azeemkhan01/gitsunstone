@@ -1,0 +1,9 @@
+#RewriteEngine On
+#RewriteCond %{REQUEST_FILENAME} !-f
+#IndexIgnore *
+#RewriteRule ^([^\.]+)$ $1.php [NC,L]
+#RewriteRule ^curriculum-([0-9]+) curriculum.php?id=$1 [NC,L]
+#RewriteRule ^stu_int-([0-9]+) stu_int.php?stuid=$1 [NC,L]
+#RewriteRule ^brochure-([0-9]+) index.php?brochure=$1 [NC,L]
+#RewriteRule ^infoSession-([0-9]+) index.php?infoSession=$1 [NC,L]
+#RewriteRule ^faq-([0-9]+) faq.php?id=$1 [NC,L]

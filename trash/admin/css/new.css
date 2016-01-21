@@ -1,0 +1,16 @@
+ #greencolor{
+        color: white;
+        background: #5CB85C;
+        display: inline-block;
+        border: 1px solid transparent;
+        padding: 6px 23px;
+        font-size: 13px;
+      }
+      #redcolor{
+      color: white;
+      background: #D9534F;
+      display: inline-block;
+      border: 1px solid transparent;
+      padding: 6px 14px;
+      font-size: 13px;
+    }

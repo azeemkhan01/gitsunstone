@@ -1,0 +1,320 @@
+@media only screen and (min-width: 501px) and (max-width: 1280px){
+
+.logo_sunstone{width: 45%;}
+
+.header{padding-bottom:0px;}
+
+.menu span{
+	font-size: 0.91em;
+	padding:5px 10px;
+}
+
+.menu span:hover { padding:10px 10px;}
+
+.brochure{display: none;}
+.tag-line{font-size: 5.5em;}
+
+.form-item{padding-left: 25px;}
+
+input[type=text]{
+	width:180px!important;
+}
+/*AFFILIATION*/
+.affi{font-size: 1.5em;}
+
+hr{margin-top:3.2em;}
+
+.affiliation img{height: 7em;}
+
+.small_line{padding: 0px 0.7em;}
+
+/*PLACEMENT*/
+.placement-subheading-1{font-size: 0.9em;}
+
+.team-member-overlay h5,p{font-size: 11px!important;}
+
+.team-member-overlay .designation{bottom:-50px;font-size: 11px}
+
+.team-member-overlay .fix{bottom:-65px;}
+
+.team-member-overlay h5, .team-member-overlay h6 { bottom: -40px;}
+
+h5.mrg_fix{
+	margin:0px 0px 5px;
+}
+
+.small_button{
+	width: 100px!important;
+	font-size: 13px;
+	height: 30px!important;
+}
+
+img[alt=quote]{width: 70%;}
+
+.big_button{
+	font-size: 1.4em;
+	width:100%;
+}
+
+.big_button i{padding-right: 7px;}
+
+/*pap*/
+
+.confidence-detail li{width:290px;}
+
+.confidence li:nth-child(3){margin-top: 25px; margin-right: 10px;}
+
+.confidence li:nth-child(5) {margin-left:0px; margin-right: 10px;}
+
+.confidence li:nth-child(2){margin-left:10px; margin-right:0px;}
+
+
+} /*-------End Of screen-width 768-----------*/
+
+@media only screen and (min-width: 321px) and (max-width: 500px){
+
+
+.favi1{width: 100%!important;}
+
+.favi{width: 100%;}
+
+.menu span{
+	font-size: 1em;
+	padding:5px 7px;
+}
+
+.menu span:hover { padding:10px 7px;}
+
+.brochure{display: none;}
+
+.tag-line{font-size: 4em;}
+
+.tag-text{font-size: 1.1em;}
+
+.know{
+	font-size: 1.4em;
+	padding-bottom:2.2em;
+}
+
+.form-item{padding-left:4.3em;}
+
+#subscribe{margin-top: 20px;}
+
+.placement-heading{
+	font-size: 2.8em;
+	padding-left: 40px;
+}
+.placement-subheading{
+	font-size: 1.3em;
+	padding-left: 40px;
+}
+
+.name{font-size: 2.5em;}
+
+.management{padding-bottom:70px;}
+
+.team-member-overlay .designation{bottom:-50px;}
+
+.team-member-overlay .fix1{bottom:-65px;}
+
+.team-member-overlay h5, .team-member-overlay h6 { bottom: -40px;} 
+
+.big_button{
+	font-size: 1.4em;
+	width:100%;
+}
+
+.big_button i{padding-right: 7px;}
+
+.bold1{font-size: 1.1em;}
+
+.steps{width:100%;}
+
+.steps img{width: 320px;}
+
+/*pap*/
+
+.pap-heading{font-size: 2.5em;}
+
+.confidence li:nth-child(3),.confidence li:nth-child(2){margin-top: 30px;}
+
+.confidence li:nth-child(5),.confidence li:nth-child(2) {margin-left:0px;}
+
+/*CONTACT US DROPDOWN*/
+.contact_dropdown{
+	width: 16em!important;
+	left:-10.5em;
+	font-size: 1.4em;
+}
+
+.box{padding-top: 0.5em;}
+
+.orange_bg{
+	padding:0px!important;
+	font-size: 0.8em!important;
+}
+
+.sun_add{
+	padding-left: 45px!important;
+}
+
+input.input2{
+	width:223px!important;
+	height: 40px;
+	border:1px solid #dbdbdb!important;
+	margin-bottom: 0.4em;
+}
+
+.contact_dropdown .fa-lg {
+  font-size: 20px;
+  line-height: 2;
+  vertical-align:-40%;
+}
+.affi{padding: 0em 2em 0em 3em;}
+
+.small_line{
+	display: none;
+}
+} /*-------End Of screen-width 360-----------*/
+
+@media only screen and (min-width: 250px) and (max-width: 320px){
+
+.logo{padding-bottom: 4em;}
+
+.favi{
+	position: fixed;
+	display: none;
+	/*font-size: 1.3em;*/
+	width: 100%!important;
+}
+.favi a{color: #333;}
+
+.favi1{width: 100%!important;}
+
+.menu{
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+.menu span{
+	font-size: 0.9em;
+	padding:5px 8px;
+}
+
+.menu span:hover {padding:10px 10px;}
+
+.brochure{display: none;}
+
+.tag-line{font-size: 2.8em;}
+
+.tag-text{font-size: 1.1em;}
+
+.know{
+	font-size: 1.38em;
+	padding-bottom:2.2em;
+}
+#download_form{text-align: center;}
+
+.download .inner-addon {margin: 5px 0 !important;}
+
+#download_btn{
+	float: none!important;
+	margin-top: 5px;
+}
+
+.form-item{padding-left:3em;}
+
+#subscribe{margin-top: 20px;}
+
+/*.placement{margin-left: 0px!important;margin-right: 0px!important;}*/
+
+.placement-heading{
+	font-size: 2.8em;
+	padding-left: 40px;
+}
+.placement-subheading{
+	font-size: 1.3em;
+	padding-left: 40px;
+}
+
+.review{background-repeat:no-repeat;height: 650px;}
+
+.name{font-size: 2em;padding-left: 30px;}
+
+.management{padding-bottom:70px;}
+
+.team-member-overlay .designation{bottom:-60px;}
+
+.team-member-overlay .fix{bottom:-70px;}
+
+.team-member-overlay .fix1{bottom:-75px;}
+
+.big_button{
+	font-size: 1.3em;
+	width:100%;
+}
+
+.big_button i{padding-right: 7px;}
+
+.bold1{font-size: 1.1em;}
+
+.steps{width:100%;}
+
+.steps img{width: 300px;}
+
+/*pap*/
+
+.pap-heading{font-size: 2.5em;}
+
+.confidence-detail li{
+	width:305px;
+}
+
+.confidence li:nth-child(2),.confidence li:nth-child(5){margin: 0px;}
+
+.confidence li:nth-child(3),.confidence li:nth-child(2),.confidence li:nth-child(5){margin-top: 30px;}
+
+/*CONTACT US DROPDOWN*/
+.contact_dropdown{
+	width: 16em!important;
+	left:-10.5em;
+	font-size: 1.4em;
+}
+
+.box{padding-top: 0.5em;}
+
+.orange_bg{
+	padding:0px!important;
+	font-size: 0.8em!important;
+}
+
+.sun_add{
+	padding-left: 45px!important;
+}
+
+input.input2{
+	width:223px!important;
+	height: 40px;
+	border:1px solid #dbdbdb!important;
+	margin-bottom: 0.4em;
+}
+
+.contact_dropdown  .fa-lg {
+  font-size: 20px;
+  line-height: 2;
+  vertical-align:-40%;
+}
+.affi{padding: 0em 1.7em 0em 1.5em;}
+
+.small_line{
+	display: none;
+}
+
+.tothetop{
+	margin-right: 0.3em!important;
+	bottom: 0.3em!important;
+}
+
+/*.professor-col{padding: 20px;}*/
+} /*-------End Of screen-width 320-----------*/
+
+

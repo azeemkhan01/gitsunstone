@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /news-and-media-new.php
+Disallow: /test-shaguna.php
+Disallow: /tmp-business-analytics.php
+Disallow: /tmp-entrepreneurship.php
